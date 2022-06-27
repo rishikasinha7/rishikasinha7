@@ -12,5 +12,7 @@
 
 
 <!-- Actual text -->
+![](https://komarev.com/ghpvc/?username=your-rishikasinha7)
 
-![Snake animation](https://github.com/rishikasinha7/rishikasinha7/blob/output/github-contribution-grid-snake.svg)
+[![Rishika's GitHub stats](https://github-readme-stats.vercel.app/api?username=rishikasinha7)](https://github.com/rishikasinha7/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rishikasinha7)](https://github.com/rishikasinha7/github-readme-stats)
