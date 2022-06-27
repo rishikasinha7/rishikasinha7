@@ -4,9 +4,7 @@
 -->
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rishikasinha7&label=Profile%20views&color=0e75b6&style=flat" alt="rishikasinha7" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rishikasinha7" alt="rishikasinha7" /></a> </p>
 
 - 🔭 I’m currently working on **ML Projects**
 
