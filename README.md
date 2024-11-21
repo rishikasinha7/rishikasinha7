@@ -4,13 +4,7 @@
 -->
 
 
-### Hello! 🙏🏼
-
-- 🔭 I’m currently working on **ML Projects**
-
-- 👯 I’m looking to collaborate on **Data Science Projects**
-
-- 🤝 I’m looking for help with **Deep Learning Algorithms**
+### Hi! 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
